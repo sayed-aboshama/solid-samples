@@ -1,0 +1,5 @@
+﻿
+{
+	"Type": "Vehicle",
+	"Salary" : 3000
+}
